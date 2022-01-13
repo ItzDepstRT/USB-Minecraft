@@ -1,6 +1,6 @@
 # USB-Minecraft for Original Mineraft
 MultiMC
-[Plug & Play All MC Versions] An portable USB Minecraft installation for traveling with MultiMC and java in it. Just plug the Flash Drive in random computer and you are able to play just fine.
+[Plug & Play All MC Versions] An portable USB Minecraft installation for traveling with MultiMC and java in it. Just plug the Flash Drive in random computer and you are able to play just fine. NO SYS PERMS NEEDED
 
 
 # Tutorial: EN
@@ -37,10 +37,11 @@ Návod: CZ
 # USB-Minecraft pro Originální Minecraft
 MultiMC 
 [Zapoj a Hraj Všechny MC Verze] Cestovní Minecraft pro fleshku se všemi verzemi. Zapjíš do jakého koliv pc a hraješ.
+Nepotřebuje žádná administratorská práva
 
 ## Krok 1
 ###### Flesh Disk
-> Potřebujete Flash Disk který je 2.0 a více a o velikosti 4GB. **Flash Disk musí být kompletně smazaný! Nesmí obsahovat žádný soubor!**
+> Potřebujete Flash Disk který je 2.0 + o velikosti 4GB. **Flash Disk musí být kompletně smazaný! Nesmí obsahovat žádný soubor!**
 
 ## Krok 2
 ###### Stahování souborů
