@@ -1,0 +1,18 @@
+[14:47:13] [Client thread/INFO] [ave]: Setting user: ZAppFireCZ
+[14:47:13] [Client thread/INFO] [ave]: (Session ID is token:eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQ0MjE4MzI2MDg3MyIsImFnZyI6IkFkdWx0Iiwic3ViIjoiM2FhMjQ2ZDEtMDBjYi00MzU5LTkyMGQtNzdkYjdlZDlkOTU3IiwibmJmIjoxNjQyMDc5NjM1LCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NDIxNjYwMzUsImlhdCI6MTY0MjA3OTYzNSwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiI1M2RlNTQ0YTRjMzJiYjU3MDcwZmMzOTNlMDQ0NmIzYSJ9.BOP7XU7Uw1lZFGrh0Ovn0npKhMtmFkEecOy7ky1d9pI:c65aabca83084a339988bf1faae0dea7)
+[14:47:14] [Client thread/INFO] [ave]: LWJGL Version: 2.9.4
+[14:47:15] [Client thread/INFO] [bnn]: Reloading ResourceManager: Default
+[14:47:15] [Sound Library Loader/INFO] [bpx]: Starting up SoundSystem...
+[14:47:15] [Thread-4/INFO] [bpx]: Initializing LWJGL OpenAL
+[14:47:15] [Thread-4/INFO] [bpx]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:47:15] [Thread-4/INFO] [bpx]: OpenAL initialized.
+[14:47:15] [Sound Library Loader/INFO] [bpx]: Sound engine started
+[14:47:17] [Client thread/INFO] [bmh]: Created: 512x512 textures-atlas
+[14:47:20] [Client thread/DEBUG] [bpx]: Playing sound minecraft:sounds/random/click.ogg for event minecraft:gui.button.press as channel 2c2e22ba-bf2e-4bb9-b561-bf879d4a5f4c
+[14:47:20] [Client thread/DEBUG] [bqn]: Shutdown streaming
+[14:47:20] [Client thread/INFO] [ave]: Stopping!
+[14:47:20] [Client thread/INFO] [bpx]: SoundSystem shutting down...
+[14:47:20] [Client thread/WARN] [bpx]: Author: Paul Lamb, www.paulscode.com
+[15:17:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:17:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:17:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
