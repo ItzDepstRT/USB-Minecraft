@@ -11,13 +11,17 @@ MultiMC
 
 ## Step 2
 ###### Downloading Files
-> Download files as zip. Unzip it and put the files into the Flash Drive
+> Download the release on the left. Filename: `Source code.zip`
 
 ## Step 3
+###### Downloading Files
+> After downloading, unzip the folder.
+
+## Step 4
 ###### Starting the Minecraft
 > Simply run the file "RUN - MultiMC.bat" and proceed to the next step
 
-## Step 4 
+## Step 5
 ###### Configuring Java ( Java 8 - For 1.15 and less)
 > 1. Click "Browse"
 > 2. The program asks you to choose java.
@@ -27,7 +31,7 @@ MultiMC
 > 6. Verify that there is a green check mark (If yes, you are good to go)
 > 7. Click finish!
 
-## Step 4 
+## Step 5 
 ###### Configuring Java ( Java 17 - For 1.15 and up)
 > 1. Click "Browse"
 > 2. The program asks you to choose java
@@ -37,7 +41,7 @@ MultiMC
 > 6. Verify that there is a green check mark (If yes, you are good to go)
 > 7. Click finish!
 
-## Step 5
+## Step 6
 ###### Logging into your account
 > 1. In the top right corner you should see "Profiles" click it
 > 2. Click "Manage Accounts"
@@ -65,7 +69,7 @@ __------------------------------------------------------------------------------
 
 Návod: CZ
 
-
+Není hotové!
 
 # USB-Minecraft pro Originální Minecraft
 MultiMC 
