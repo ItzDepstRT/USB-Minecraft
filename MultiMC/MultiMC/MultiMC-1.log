@@ -1,0 +1,1248 @@
+    0.282 D <> Log initialized.
+    0.282 D "MultiMC 5" , (c) 2013-2021  "MultiMC Contributors"
+    0.282 D Version                    :  "0.6.14-3001"
+    0.282 D Git commit                 :  "80beccb2c4585260e5d170c68f72d3d303f777e0"
+    0.282 D Git refspec                :  "refs/heads/stable"
+    0.282 D Work dir before adjustment :  "F:/"
+    0.298 D Work dir after adjustment  :  "F:/MultiMC/MultiMC"
+    0.298 D Adjusted by                :  "Fallback to binary path F:/MultiMC/MultiMC"
+    0.298 D Binary path                :  "F:/MultiMC/MultiMC"
+    0.298 D Application root path      :  "F:/MultiMC/MultiMC"
+    0.298 D <> Paths set.
+    0.313 D Detected default console font: "Courier" , substitutions: ""
+    0.313 D <> Settings loaded.
+    0.345 D Detecting proxy settings...
+    0.345 D Using no proxy is an option!
+    0.345 D <> Network done.
+    0.360 D Your language is "en_US"
+    0.360 D <> Translations loaded.
+    0.360 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    0.360 D <> Updater started.
+    0.391 D Started watching  "F:/MultiMC/MultiMC/icons"
+    0.407 D Adding  "icons/zmech_retro.ico"
+    0.563 D Adding  "icons/optifine.ico"
+    0.579 D Adding  "icons/optifabric.ico"
+    0.610 D <> Instance icons intialized.
+    0.610 D <> Icon themes initialized.
+    0.610 D Determining System Theme...
+    0.610 D System theme seems to be: "windowsvista"
+    0.626 D Considering theme from theme factory: "windows"
+    0.626 D Considering theme from theme factory: "windowsxp"
+    0.626 D Considering theme from theme factory: "windowsvista"
+    0.626 D System theme has been determined to be: "WindowsVista"
+    0.626 D Loading theme "custom"
+    0.641 D <> Widget themes initialized.
+    0.641 D Instance path              :  "instances"
+    0.641 D Loading Instances...
+    0.641 D Discovering instances in "F:/MultiMC/MultiMC/instances"
+    0.641 D Found instance ID "1.18.1"
+    0.641 D Found instance ID "1.16.5"
+    0.657 D Found instance ID "1.17.1"
+    0.657 D Found instance ID "1.18.11"
+    0.657 D Found instance ID "1.17.11"
+    0.657 D Found instance ID "1.16.51"
+    0.657 D Found instance ID "1.12.2"
+    0.657 D Found instance ID "1.12.21"
+    0.657 D Found instance ID "1.8.9"
+    0.657 D Found instance ID "1.8.91"
+    0.657 D Found instance ID "1.18.12"
+    0.673 D Found instance ID "1.17.12"
+    0.673 D Found instance ID "1.16.52"
+    0.673 D Found instance ID "Z-Mech Retro"
+    0.673 D Will load group list now.
+    0.673 D Group list loaded.
+    0.689 D Loaded instance  "1.18.1"  from  "F:/MultiMC/MultiMC/instances/1.18.1"
+    0.689 D Loaded instance  "1.16.5"  from  "F:/MultiMC/MultiMC/instances/1.16.5"
+    0.689 D Loaded instance  "1.17.1"  from  "F:/MultiMC/MultiMC/instances/1.17.1"
+    0.689 D Loaded instance  "1.18.1"  from  "F:/MultiMC/MultiMC/instances/1.18.11"
+    0.689 D Loaded instance  "1.17.1"  from  "F:/MultiMC/MultiMC/instances/1.17.11"
+    0.704 D Loaded instance  "1.16.5"  from  "F:/MultiMC/MultiMC/instances/1.16.51"
+    0.704 D Loaded instance  "1.12.2"  from  "F:/MultiMC/MultiMC/instances/1.12.2"
+    0.704 D Loaded instance  "1.12.2"  from  "F:/MultiMC/MultiMC/instances/1.12.21"
+    0.704 D Loaded instance  "1.8.9"  from  "F:/MultiMC/MultiMC/instances/1.8.9"
+    0.720 D Loaded instance  "1.8.9"  from  "F:/MultiMC/MultiMC/instances/1.8.91"
+    0.720 D Loaded instance  "1.18.1"  from  "F:/MultiMC/MultiMC/instances/1.18.12"
+    0.720 D Loaded instance  "1.17.1"  from  "F:/MultiMC/MultiMC/instances/1.17.12"
+    0.736 D Loaded instance  "1.16.5"  from  "F:/MultiMC/MultiMC/instances/1.16.52"
+    0.736 D Loaded instance  "Z-Mech Retro"  from  "F:/MultiMC/MultiMC/instances/Z-Mech Retro"
+    0.736 D <> Instances loaded.
+    0.736 D Loading accounts...
+    0.752 D AccountList: Queued default account with internal ID  "d43320bee21043b2a2568745a6a117d8"  to refresh first
+    0.752 D Task "MSASilent(0x34d6b90)" starting for the first time
+    0.752 D AuthFlow: "Logging in with Microsoft account."
+    0.752 D DeviceFlow::refresh: Token: ... "uoBdsa7"
+    1.277 D RefreshSchedule: Processing account  "ZAppFireCZ5853"  with internal ID  "d43320bee21043b2a2568745a6a117d8"
+    1.277 D <> Accounts loaded.
+    1.292 D <> Cache initialized.
+    1.292 D Downloading Translations Index...
+    1.292 D Task "NetJob(Translations Index)" starting for the first time
+    1.292 D <> Icon theme set.
+    1.308 D <> Application theme set.
+    1.308 D <> Initialized analytics with tid "UA-87731965-2"
+    1.620 D Task "JavaListLoadTask(0x407ce60)" starting for the first time
+    1.636 D Probing the following Java paths: 
+    1.636 D   "C:/Program Files/Java/jre8/bin/javaw.exe"
+    1.636 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+    1.636 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+    1.636 D   "C:/Program Files (x86)/Java/jre8/bin/javaw.exe"
+    1.636 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+    1.651 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+    1.651 D   "javaw"
+    1.651 D Task "JavaCheckerJob(0x407d138)" starting for the first time
+    1.651 D "Java detection"  started.
+    1.651 D "Running java checker: C:/Program Files/Java/jre8/bin/javaw.exe-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    1.651 D Java checker has failed to start.
+    1.667 D Process environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.667 D Native environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.667 D "Java detection" progress: 1 / 7
+    1.667 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    1.667 D Java checker has failed to start.
+    1.667 D Process environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.667 D Native environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.667 D "Java detection" progress: 2 / 7
+    1.667 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    1.667 D Java checker has failed to start.
+    1.667 D Process environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.667 D Native environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.667 D "Java detection" progress: 3 / 7
+    1.667 D "Running java checker: C:/Program Files (x86)/Java/jre8/bin/javaw.exe-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    1.667 D Java checker has failed to start.
+    1.667 D Process environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.667 D Native environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.667 D "Java detection" progress: 4 / 7
+    1.667 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    1.667 D Java checker has failed to start.
+    1.667 D Process environment:
+    1.667 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.683 D Native environment:
+    1.683 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.683 D "Java detection" progress: 5 / 7
+    1.683 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    1.683 D Java checker has failed to start.
+    1.683 D Process environment:
+    1.683 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.683 D Native environment:
+    1.683 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.683 D "Java detection" progress: 6 / 7
+    1.683 D "Running java checker: javaw-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    1.683 D Java checker has failed to start.
+    1.683 D Process environment:
+    1.683 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.683 D Native environment:
+    1.683 D ("SystemRoot=C:\\Windows", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "APPDATA=F:\\\\MultiMC", "SystemDrive=C:", "=F:=F:\\", "OneDriveConsumer=C:\\Users\\9.AStarek\\OneDrive", "windir=C:\\Windows", "ProgramFiles(x86)=C:\\Program Files (x86)", "OS=Windows_NT", "PROCESSOR_LEVEL=6", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\9.AStarek", "COMPUTERNAME=310-14", "ProgramFiles=C:\\Program Files (x86)", "PROMPT=$P$G", "HOMEPATH=\\", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "=::=::\\", "OneDrive=C:\\Users\\9.AStarek\\OneDrive", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "LOCALAPPDATA=C:\\Users\\9.AStarek\\AppData\\Local", "ProgramW6432=C:\\Program Files", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERDNSDOMAIN=ZSKS.LOCAL", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.AStarek", "ZES_ENABLE_SYSMAN=1", "HOMEDRIVE=H:", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e0a", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ComSpec=C:\\Windows\\system32\\cmd.exe", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.AStarek\\AppData\\Local\\Microsoft\\WindowsApps;", "PROCESSOR_ARCHITEW6432=AMD64", "TMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel", "ProgramData=C:\\ProgramData", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "TEMP=C:\\Users\\9AAFD~1.AST\\AppData\\Local\\Temp", "USERDOMAIN=ZSKS", "USERNAME=9.AStarek", "PUBLIC=C:\\Users\\Public", "ALLUSERSPROFILE=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "NUMBER_OF_PROCESSORS=6")
+    1.683 D "Java detection" progress: 7 / 7
+    1.683 D Task "JavaCheckerJob(0x407d138)" succeeded
+    1.683 D Found the following valid Java installations:
+    1.683 D Task "JavaListLoadTask(0x407ce60)" succeeded
+    1.683 W QCoreApplication::postEvent: Unexpected null receiver
+    1.780 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    1.827 D Dir changed: "F:/MultiMC/MultiMC/translations"
+    1.905 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    1.905 D Task "NetJob(Translations Index)" succeeded
+    1.905 D Got translations index!
+    1.905 D Dir changed: "F:/MultiMC/MultiMC/translations"
+    2.171 D DeviceFlow::setLinked: true
+    2.171 D AuthFlow: "Logging in as an Xbox user."
+    2.186 D First layer of XBox auth ... commencing.
+    2.186 D New token expires in QDateTime(2022-03-01 14:38:04.675 UTC Qt::TimeSpec(UTC)) seconds
+    3.454 D Parsing "UToken" :
+    3.454 D "UToken" is valid.
+    3.454 D AuthFlow: "Getting authorization to access Xbox services."
+    3.454 D Getting authorization token for  "http://xboxlive.com"
+    4.191 D Parsing "Xbox" :
+    4.191 D "Xbox" is valid.
+    4.191 D AuthFlow: "Getting authorization to access Mojang services."
+    4.191 D Getting authorization token for  "rp://api.minecraftservices.com/"
+    4.532 D Parsing "Mojang" :
+    4.532 D "Mojang" is valid.
+    4.532 D AuthFlow: "Accessing Mojang services."
+    4.532 D Getting Minecraft access token...
+    4.861 D "{\n  \"username\" : \"3aa246d1-00cb-4359-920d-77db7ed9d957\",\n  \"roles\" : [ ],\n  \"access_token\" : \"eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQ0MjE4MzI2MDg3MyIsImFnZyI6IkFkdWx0Iiwic3ViIjoiM2FhMjQ2ZDEtMDBjYi00MzU5LTkyMGQtNzdkYjdlZDlkOTU3IiwibmJmIjoxNjQ2MTQxODk2LCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NDYyMjgyOTYsImlhdCI6MTY0NjE0MTg5NiwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiI1M2RlNTQ0YTRjMzJiYjU3MDcwZmMzOTNlMDQ0NmIzYSJ9.IKPjFYaFHsyNcrSrGTlpbHs098JTvhXsjYCphivgX9g\",\n  \"expires_in\" : 86400,\n  \"token_type\" : \"Bearer\"\n}"
+    4.861 D Parsing Mojang response...
+    4.861 D Mojang response is valid.
+    4.861 D AuthFlow: "Fetching Xbox profile."
+    4.861 D Getting Xbox profile...
+    5.161 D Wizard result = 1
+    5.251 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    5.251 D Reloading news.
+    5.251 D Task "NetJob(News RSS Feed)" starting for the first time
+    5.251 D Checking for updates.
+    5.261 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    5.261 D Loading the channel list.
+    5.261 D Task "NetJob(Update System Channel List)" starting for the first time
+    5.261 D Task "NetJob(Checking for notifications)" starting for the first time
+    5.305 D Viewport size "800x600"
+    5.305 D RAM size is 8010 MB
+    5.311 D [Analytics] "ScreenView: Main Window"
+    5.311 D <> Main window shown.
+    5.311 D Downloading  "https://multimc.org/rss.xml"
+    5.311 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    5.311 D Downloading  "https://files.multimc.org/notifications.json"
+    5.381 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+    5.381 D Task "NetJob(Update System Channel List)" succeeded
+    5.391 D Successfully loaded UpdateChecker channel list.
+    5.391 D Checking for updates.
+    5.391 D channelEntry =  "stable"
+    5.391 D is intended update channel:  "stable"
+    5.391 D is current update channel:  "stable"
+    5.401 D channelEntry =  "develop"
+    5.405 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    5.405 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+    5.411 D Download succeeded: "https://files.multimc.org/notifications.json"
+    5.441 D Task "NetJob(Checking for notifications)" succeeded
+    5.441 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    5.496 D Location header: QUrl("https://files.multimc.org/update/win32/stable/index.json")
+    5.496 D Following redirect to  "https://files.multimc.org/update/win32/stable/index.json"
+    5.496 D Downloading  "https://files.multimc.org/update/win32/stable/index.json"
+    5.496 D Download redirected: "https://files.multimc.org/update/win32/stable/index.json"
+    5.541 D Download succeeded: "https://multimc.org/rss.xml"
+    5.541 D Task "NetJob(News RSS Feed)" succeeded
+    5.541 D Finished loading RSS feed.
+    5.551 D Loaded news entry "IMPORTANT MESSAGE - Security vulnerability in Minecraft"
+    5.551 D Loaded news entry "0.6.14 - Microsoft account refinement, Forge 1.17+ and other fixes"
+    5.551 D Loaded news entry "0.6.13 - Microsoft account integration"
+    5.551 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+    5.551 D Loaded news entry "About Microsoft accounts"
+    5.551 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+    5.561 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+    5.561 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+    5.561 D Loaded news entry "0.6.3 - The Big Sync"
+    5.561 D Loaded news entry "0.6.2 Released!"
+    5.561 D Loaded news entry "0.6.1 Released!"
+    5.561 D Loaded news entry "0.6.0 Released!"
+    5.561 D Loaded news entry "Introducing the Archive"
+    5.561 D Loaded news entry "0.5.1 - Bugfixes."
+    5.561 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+    5.561 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    5.561 D Loaded news entry "0.4.10 - Another wifi fix"
+    5.561 D Loaded news entry "0.4.9 - the Windows wifi fix."
+    5.561 D Loaded news entry "0.4.8 - Worlds and more."
+    5.561 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+    5.561 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+    5.561 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+    5.561 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+    5.561 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    5.561 D Loaded news entry "Support us on Patreon!"
+    5.561 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    5.561 D Loaded news entry "Announcing MultiMC 6"
+    5.561 D Loaded news entry "0.3 - The big feature update."
+    5.561 D Loaded news entry "First official MultiMC 5 release!"
+    5.561 D Loaded news entry "MultiMC Status Update"
+    5.561 D News loading succeeded.
+    5.561 D Download succeeded: "https://files.multimc.org/update/win32/stable/index.json"
+    5.561 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    5.561 D Finished downloading repo index. Checking for new versions.
+    5.561 D Processing repository version list.
+    5.651 D AuthFlow: "Determining game ownership."
+    5.651 D Getting entitlements...
+    5.971 D Parsing Minecraft entitlements...
+    5.971 D AuthFlow: "Fetching the Minecraft profile."
+    6.301 D Parsing Minecraft profile...
+    6.301 D AuthFlow: "Getting skin."
+    6.346 D Task "MSASilent(0x34d6b90)" succeeded
+    6.346 D Writing account list to "accounts.json"
+    6.351 D Building JSON data structure.
+    6.351 D Building account array.
+    6.351 D Writing account list to file.
+    6.381 D Saved account list to "accounts.json"
+    6.381 D RefreshSchedule: Background account refresh succeeded
+    9.182 D Selected index 0 channel id "stable"
+   13.923 D Writing account list to "accounts.json"
+   13.923 D Building JSON data structure.
+   13.923 D Building account array.
+   13.923 D Writing account list to file.
+   13.969 D Saved account list to "accounts.json"
+   13.969 D Writing account list to "accounts.json"
+   13.969 D Building JSON data structure.
+   13.969 D Building account array.
+   13.969 D Writing account list to file.
+   13.985 D Saved account list to "accounts.json"
+   15.386 D Task "MSAInteractive(0x7780090)" starting for the first time
+   15.386 D AuthFlow: "Logging in with Microsoft account."
+   15.386 D DeviceFlow::link
+   15.386 D DeviceFlow::setLinked: false
+   15.746 D DeviceFlow::onDeviceAuthReplyFinished
+   15.746 D DeviceFlow::onDeviceAuthReplyFinished: Tokens returned:
+
+   15.746 D "device_code" :  "CAQABAAEAAAD--DLA3VO7QrddgJg7Wevrnt0ds0qCxuXU6IEHQqr0N4YXuaXOPgPdY4R6F_YM5y8vPYgVZxblUgDTuSn_CeEyUGQVvyQEvGrHwNtwBU5up2kTr4CmH6F3LJq2oTzI7PThMSSqMwr4RfTlnXpyIL75sEUHetAwi4K6Ee-JZHu-tZvZ5OyqUnrLXgGCl-xI4g7dcYhTMDelcVkQvz4c-55P5-cdWk3r_r1P3j92PgamjWOjNKTiBCVzCxvuPmIbVm6HZI3W3ppesBvFf_f61Sbdnwt9lOUoWFqc3iVjpmipZP6XlxrozIh1o9PO94CiFPXi8Sf4JZo8zHEFDOqFWFvr08skVnUlVzQPmbC8s-lIrO9t4-DaOJ1Qw7WynGszYi2B1izk3eBDLCZD8udiggT_IAA"
+   15.761 D "expires_in" :  "900"
+   15.761 D "interval" :  "5"
+   15.761 D "message" :  "Pokud se chcete přihlásit, otevřete ve webovém prohlížeči stránku https://www.microsoft.com/link a při ověřování zadejte kód S9MUJV2M."
+   15.761 D "user_code" :  "S9MUJV2M"
+   15.761 D "verification_uri" :  "https://www.microsoft.com/link"
+   15.761 D DeviceFlow::onDeviceAuthReplyFinished: Device auth request response
+   15.761 D DeviceFlow::startPollServer: device_ and user_code expires in 900 seconds
+   20.768 D PollServer::onPollTimeout: retrying
+   26.030 D PollServer::onPollTimeout: retrying
+   31.285 D PollServer::onPollTimeout: retrying
+   31.317 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=c96b8e70-8551-4c57-8bc3-c5bd07101412&t=screenview&ul=cs-cz&vp=800x600&sr=1920x1080&aip=1&cd=Main Window&an=MultiMC&av=0.6.14-3001&cd1=1.8.0_311&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=2048&cm3=8010&qt=26006"
+   31.379 D [Analytics] "Message sent"
+   36.565 D PollServer::onPollTimeout: retrying
+   41.884 D PollServer::onPollTimeout: retrying
+   47.185 D PollServer::onPollTimeout: retrying
+   52.532 D PollServer::onPollTimeout: retrying
+   57.799 D PollServer::onPollTimeout: retrying
+   63.137 D PollServer::onPollTimeout: retrying
+   68.416 D PollServer::onPollTimeout: retrying
+   73.917 D PollServer::onPollTimeout: retrying
+   79.219 D PollServer::onPollTimeout: retrying
+   84.487 D PollServer::onPollTimeout: retrying
+   85.301 D DeviceFlow::onVerificationReceived: Emitting closeBrowser()
+   85.301 D DeviceFlow::onVerificationReceived: Access token returned for implicit or device flow
+   85.301 D DeviceFlow::onVerificationReceived: Token expires in 3600 seconds
+   85.316 D DeviceFlow::setLinked: true
+   85.316 D AuthFlow: "Logging in as an Xbox user."
+   85.316 D First layer of XBox auth ... commencing.
+   85.738 D Parsing "UToken" :
+   85.738 D "UToken" is valid.
+   85.738 D AuthFlow: "Getting authorization to access Xbox services."
+   85.738 D Getting authorization token for  "http://xboxlive.com"
+   86.129 D Parsing "Xbox" :
+   86.129 D "Xbox" is valid.
+   86.144 D AuthFlow: "Getting authorization to access Mojang services."
+   86.144 D Getting authorization token for  "rp://api.minecraftservices.com/"
+   86.567 D Parsing "Mojang" :
+   86.567 D "Mojang" is valid.
+   86.567 D AuthFlow: "Accessing Mojang services."
+   86.567 D Getting Minecraft access token...
+   86.708 D "{\n  \"username\" : \"d3cef77c-4206-4b68-818a-a219cd746f4b\",\n  \"roles\" : [ ],\n  \"access_token\" : \"eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQyMzIyMTY3MTI3OSIsImFnZyI6IlRlZW4iLCJzdWIiOiJkM2NlZjc3Yy00MjA2LTRiNjgtODE4YS1hMjE5Y2Q3NDZmNGIiLCJuYmYiOjE2NDYxNDE5NzgsImF1dGgiOiJYQk9YIiwicm9sZXMiOltdLCJpc3MiOiJhdXRoZW50aWNhdGlvbiIsImV4cCI6MTY0NjIyODM3OCwiaWF0IjoxNjQ2MTQxOTc4LCJwbGF0Zm9ybSI6IlBDX0xBVU5DSEVSIiwieXVpZCI6IjE1M2M1MDdjNTdkZmFlYTI3MjdhNDc2MTRlYzJhYmFlIn0.gPo7_DB2HAZ5ubQIQFlL1nTAdzoDpyV6pFeF1NP2Cf8\",\n  \"expires_in\" : 86400,\n  \"token_type\" : \"Bearer\"\n}"
+   86.708 D Parsing Mojang response...
+   86.708 D Mojang response is valid.
+   86.708 D AuthFlow: "Fetching Xbox profile."
+   86.708 D Getting Xbox profile...
+   87.037 D AuthFlow: "Determining game ownership."
+   87.037 D Getting entitlements...
+   87.459 D Parsing Minecraft entitlements...
+   87.459 D AuthFlow: "Fetching the Minecraft profile."
+   87.787 D Parsing Minecraft profile...
+   87.787 D AuthFlow: "Getting skin."
+   87.912 D Task "MSAInteractive(0x7780090)" succeeded
+   87.927 D Writing account list to "accounts.json"
+   87.927 D Building JSON data structure.
+   87.927 D Building account array.
+   87.927 D Writing account list to file.
+   87.943 D Saved account list to "accounts.json"
+   87.943 D Writing account list to "accounts.json"
+   87.943 D Building JSON data structure.
+   87.943 D Building account array.
+   87.943 D Writing account list to file.
+   87.974 D Saved account list to "accounts.json"
+   87.974 W QCoreApplication::postEvent: Unexpected null receiver
+   93.304 D Paged dialog close requested
+   93.304 D Analytics enabled by user.
+   93.304 D Detecting proxy settings...
+   93.319 D Using no proxy is an option!
+   93.319 D Paged dialog close approved
+   93.319 D Paged dialog geometry saved
+   93.351 D Discovering instances in "F:/MultiMC/MultiMC/instances"
+   93.351 D Found instance ID "1.18.1"
+   93.351 D Found instance ID "1.16.5"
+   93.351 D Found instance ID "1.17.1"
+   93.351 D Found instance ID "1.18.11"
+   93.351 D Found instance ID "1.17.11"
+   93.351 D Found instance ID "1.16.51"
+   93.351 D Found instance ID "1.12.2"
+   93.351 D Found instance ID "1.12.21"
+   93.351 D Found instance ID "1.8.9"
+   93.351 D Found instance ID "1.8.91"
+   93.351 D Found instance ID "1.18.12"
+   93.351 D Found instance ID "1.17.12"
+   93.351 D Found instance ID "1.16.52"
+   93.351 D Found instance ID "Z-Mech Retro"
+   93.351 D Should keep and soft-reload "1.18.1"
+   93.351 D Should keep and soft-reload "1.16.5"
+   93.351 D Should keep and soft-reload "1.17.1"
+   93.351 D Should keep and soft-reload "1.18.11"
+   93.351 D Should keep and soft-reload "1.17.11"
+   93.366 D Should keep and soft-reload "1.16.51"
+   93.366 D Should keep and soft-reload "1.12.2"
+   93.366 D Should keep and soft-reload "1.12.21"
+   93.366 D Should keep and soft-reload "1.8.9"
+   93.366 D Should keep and soft-reload "1.8.91"
+   93.366 D Should keep and soft-reload "1.18.12"
+   93.366 D Should keep and soft-reload "1.17.12"
+   93.366 D Should keep and soft-reload "1.16.52"
+   93.366 D Should keep and soft-reload "Z-Mech Retro"
+   94.351 W QCoreApplication::postEvent: Unexpected null receiver
+   94.351 D Task "LaunchController(0x76c5478)" starting for the first time
+   95.663 D Task "LaunchTask(0x4c4c8d8)" starting for the first time
+   95.663 D Task "TextPrint(0x4c2d0a0)" starting for the first time
+   95.663 D Task "TextPrint(0x4c2d0a0)" succeeded
+   95.663 D Task "TextPrint(0x4c2d3b0)" starting for the first time
+   95.663 D Task "TextPrint(0x4c2d3b0)" succeeded
+   95.663 D Task "TextPrint(0x4c2cff8)" starting for the first time
+   95.663 D Task "TextPrint(0x4c2cff8)" succeeded
+   95.663 D Task "TextPrint(0x4c36058)" starting for the first time
+   95.663 D Task "TextPrint(0x4c36058)" succeeded
+   95.663 D Task "CheckJava(0x7780310)" starting for the first time
+   95.679 C Task "CheckJava(0x7780310)" failed:  "Java path is not valid."
+   95.777 C Task "LaunchTask(0x4c4c8d8)" failed:  "Java path is not valid."
+   95.824 D Task "ComponentUpdateTask(0x7757528)" starting for the first time
+   95.824 D Loading components
+   95.839 D Task "NetJob(Download of meta file index.json)" starting for the first time
+   95.839 D Remote loading is being run for metadata index
+   95.839 D Task "NetJob(Download of meta file org.lwjgl/2.9.4-nightly-20150209.json)" starting for the first time
+   95.839 D Remote loading is being run for "LWJGL 2"
+   95.855 D Task "NetJob(Download of meta file net.minecraft/1.7.10.json)" starting for the first time
+   95.855 D Remote loading is being run for "Minecraft"
+   95.871 D Task "NetJob(Download of meta file net.minecraftforge/10.13.4.1614.json)" starting for the first time
+   95.871 D Remote loading is being run for "Forge"
+   95.871 D Task "NetJob(Download of meta file org.lwjgl/index.json)" starting for the first time
+   95.871 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   95.871 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   95.871 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   95.886 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   95.886 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   95.886 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   96.167 D Applying "org.lwjgl" GOOD
+   96.167 D Applying "net.minecraft" GOOD
+   96.167 D Applying "net.minecraftforge" GOOD
+   96.230 C Task "LaunchController(0x76c5478)" failed:  "Java path is not valid."
+   96.230 W QCoreApplication::postEvent: Unexpected null receiver
+   96.277 D Downloading  "https://meta.multimc.org/v1/index.json"
+   96.277 D Downloading  "https://meta.multimc.org/v1/org.lwjgl/2.9.4-nightly-20150209.json"
+   96.277 D Downloading  "https://meta.multimc.org/v1/net.minecraft/1.7.10.json"
+   96.277 D Downloading  "https://meta.multimc.org/v1/net.minecraftforge/10.13.4.1614.json"
+   96.277 D Downloading  "https://meta.multimc.org/v1/org.lwjgl/index.json"
+   96.417 D Download succeeded: "https://meta.multimc.org/v1/net.minecraft/1.7.10.json"
+   96.417 D Task "NetJob(Download of meta file net.minecraft/1.7.10.json)" succeeded
+   96.417 D Remote task 2 succeeded
+   96.433 D Download succeeded: "https://meta.multimc.org/v1/index.json"
+   96.433 D Task "NetJob(Download of meta file index.json)" succeeded
+   96.433 D Remote task 0 succeeded
+   96.464 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl/2.9.4-nightly-20150209.json"
+   96.464 D Task "NetJob(Download of meta file org.lwjgl/2.9.4-nightly-20150209.json)" succeeded
+   96.464 D Remote task 1 succeeded
+   96.464 D Component list save is scheduled for "Z-Mech Retro"
+   96.480 D Download succeeded: "https://meta.multimc.org/v1/net.minecraftforge/10.13.4.1614.json"
+   96.480 D Task "NetJob(Download of meta file net.minecraftforge/10.13.4.1614.json)" succeeded
+   96.480 D Remote task 3 succeeded
+   96.480 D Resolving dependencies
+   96.480 D "Req: net.minecraft == 1.7.10" Is met.
+   96.480 D "Req: org.lwjgl" Is met.
+   96.480 D Task "ComponentUpdateTask(0x7757528)" succeeded
+   96.480 D Component list update/resolve task succeeded for "Z-Mech Retro"
+   96.495 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl/index.json"
+   96.511 D Task "NetJob(Download of meta file org.lwjgl/index.json)" succeeded
+  101.463 D Component list save performed now for "Z-Mech Retro"
+  105.252 D Selected index 0 channel id "stable"
+  123.490 D "Running java checker: F:/OpenJre 8/Java_64/bin/javaw.exe-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+  124.612 D STDOUT "os.arch=amd64\njava.version=1.8.0_311\njava.vendor=Oracle Corporation\n"
+  124.612 W STDERR ""
+  124.612 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  124.612 D Java checker succeeded.
+  124.612 D "Running java checker: F:/OpenJre 8/Java_64/bin/javaw.exe-Xms512m -Xmx2048m -jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+  124.687 D STDOUT "os.arch=amd64\njava.version=1.8.0_311\njava.vendor=Oracle Corporation\n"
+  124.687 W STDERR ""
+  124.687 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  124.687 D Java checker succeeded.
+  126.893 D Paged dialog close requested
+  126.893 D Analytics enabled by user.
+  126.893 D Detecting proxy settings...
+  126.893 D Using no proxy is an option!
+  126.893 D Paged dialog close approved
+  126.893 D Paged dialog geometry saved
+  126.972 D Discovering instances in "F:/MultiMC/MultiMC/instances"
+  126.972 D Found instance ID "1.18.1"
+  126.972 D Found instance ID "1.16.5"
+  126.972 D Found instance ID "1.17.1"
+  126.972 D Found instance ID "1.18.11"
+  126.982 D Found instance ID "1.17.11"
+  126.982 D Found instance ID "1.16.51"
+  126.982 D Found instance ID "1.12.2"
+  126.982 D Found instance ID "1.12.21"
+  126.982 D Found instance ID "1.8.9"
+  126.982 D Found instance ID "1.8.91"
+  126.982 D Found instance ID "1.18.12"
+  126.982 D Found instance ID "1.17.12"
+  126.982 D Found instance ID "1.16.52"
+  126.982 D Found instance ID "Z-Mech Retro"
+  126.982 D Should keep and soft-reload "1.18.1"
+  126.982 D Should keep and soft-reload "1.16.5"
+  126.982 D Should keep and soft-reload "1.17.1"
+  126.982 D Should keep and soft-reload "1.18.11"
+  126.982 D Should keep and soft-reload "1.17.11"
+  126.982 D Should keep and soft-reload "1.16.51"
+  126.982 D Should keep and soft-reload "1.12.2"
+  126.982 D Should keep and soft-reload "1.12.21"
+  126.982 D Should keep and soft-reload "1.8.9"
+  126.982 D Should keep and soft-reload "1.8.91"
+  126.982 D Should keep and soft-reload "1.18.12"
+  126.982 D Should keep and soft-reload "1.17.12"
+  126.982 D Should keep and soft-reload "1.16.52"
+  126.982 D Should keep and soft-reload "Z-Mech Retro"
+  128.056 W QCoreApplication::postEvent: Unexpected null receiver
+  128.056 D Task "LaunchController(0x76c4878)" starting for the first time
+  129.427 D Task "LaunchTask(0x4c29570)" starting for the first time
+  129.458 D Task "TextPrint(0x4975660)" starting for the first time
+  129.458 D Task "TextPrint(0x4975660)" succeeded
+  129.458 D Task "TextPrint(0x4975580)" starting for the first time
+  129.458 D Task "TextPrint(0x4975580)" succeeded
+  129.458 D Task "TextPrint(0x4975510)" starting for the first time
+  129.458 D Task "TextPrint(0x4975510)" succeeded
+  129.458 D Task "TextPrint(0x4abb228)" starting for the first time
+  129.458 D Task "TextPrint(0x4abb228)" succeeded
+  129.458 D Task "CheckJava(0x7781090)" starting for the first time
+  129.458 D "Running java checker: F:/OpenJre 8/Java_64/bin/javaw.exe-jar F:/MultiMC/MultiMC/jars/JavaCheck.jar"
+  129.458 W QCoreApplication::postEvent: Unexpected null receiver
+  129.537 D STDOUT "os.arch=amd64\njava.version=1.8.0_311\njava.vendor=Oracle Corporation\n"
+  129.537 W STDERR ""
+  129.537 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  129.537 D Java checker succeeded.
+  129.585 C "Error changing setting JavaVendor. Setting doesn't exist."
+  129.600 D Task "CheckJava(0x7781090)" succeeded
+  129.600 D Task "CreateGameFolders(0x775afd8)" starting for the first time
+  129.600 D Task "CreateGameFolders(0x775afd8)" succeeded
+  129.600 D Task "ClaimAccount(0x4b96d80)" starting for the first time
+  129.600 D Writing account list to "accounts.json"
+  129.600 D Building JSON data structure.
+  129.600 D Building account array.
+  129.600 D Writing account list to file.
+  129.631 D Saved account list to "accounts.json"
+  129.631 W Profile "516da006154b402992f508be472f7584" is now in use.
+  129.631 D Task "ClaimAccount(0x4b96d80)" succeeded
+  129.631 D Task "Update(0x7781110)" starting for the first time
+  129.631 D Task "MinecraftUpdate(0x7780090)" starting for the first time
+  129.631 D Task "ComponentUpdateTask(0x77591d8)" starting for the first time
+  129.631 D Loading components
+  129.631 D Index is already loaded
+  129.631 D Component list save is scheduled for "Z-Mech Retro"
+  129.631 D Resolving dependencies
+  129.631 D "Req: net.minecraft == 1.7.10" Is met.
+  129.631 D "Req: org.lwjgl" Is met.
+  129.631 D Task "ComponentUpdateTask(0x77591d8)" succeeded
+  129.631 D Component list update/resolve task succeeded for "Z-Mech Retro"
+  129.631 D Task "FoldersTask(0x4bd6234)" starting for the first time
+  129.631 D Task "FoldersTask(0x4bd6234)" succeeded
+  129.631 D Task "LibrariesTask(0x7780d5c)" starting for the first time
+  129.631 D "Z-Mech Retro" : downloading libraries
+  129.631 D Applying "org.lwjgl" GOOD
+  129.631 D Applying "net.minecraft" GOOD
+  129.631 D Applying "net.minecraftforge" GOOD
+  129.836 D Task "NetJob(Libraries for instance Z-Mech Retro)" starting for the first time
+  129.867 D Task "NetJob(Libraries for instance Z-Mech Retro)" succeeded
+  129.867 D Task "LibrariesTask(0x7780d5c)" succeeded
+  129.867 D Task "FMLLibrariesTask(0x4a73804)" starting for the first time
+  129.867 D Task "FMLLibrariesTask(0x4a73804)" succeeded
+  129.867 D Task "AssetUpdateTask(0x77807dc)" starting for the first time
+  129.867 D Asset index SHA1: "1863782e33ce7b584fc45b037325a1964e095d3e"
+  129.867 D "Z-Mech Retro" : Starting asset index download
+  129.867 D Task "NetJob(Asset index for Z-Mech Retro)" starting for the first time
+  129.867 D Downloading  "https://launchermeta.mojang.com/v1/packages/1863782e33ce7b584fc45b037325a1964e095d3e/1.7.10.json"
+  129.914 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1863782e33ce7b584fc45b037325a1964e095d3e/1.7.10.json"
+  129.914 D Task "NetJob(Asset index for Z-Mech Retro)" succeeded
+  129.914 D "Z-Mech Retro" : Finished asset index download
+  129.930 W QCoreApplication::postEvent: Unexpected null receiver
+  129.930 W QCoreApplication::postEvent: Unexpected null receiver
+  129.930 W QCoreApplication::postEvent: Unexpected null receiver
+  129.930 W QCoreApplication::postEvent: Unexpected null receiver
+  129.930 W QCoreApplication::postEvent: Unexpected null receiver
+  129.930 W QCoreApplication::postEvent: Unexpected null receiver
+  129.945 W QCoreApplication::postEvent: Unexpected null receiver
+  129.945 W QCoreApplication::postEvent: Unexpected null receiver
+  129.945 W QCoreApplication::postEvent: Unexpected null receiver
+  129.945 W QCoreApplication::postEvent: Unexpected null receiver
+  129.945 W QCoreApplication::postEvent: Unexpected null receiver
+  129.961 W QCoreApplication::postEvent: Unexpected null receiver
+  129.961 W QCoreApplication::postEvent: Unexpected null receiver
+  129.961 W QCoreApplication::postEvent: Unexpected null receiver
+  129.961 W QCoreApplication::postEvent: Unexpected null receiver
+  129.961 W QCoreApplication::postEvent: Unexpected null receiver
+  129.961 W QCoreApplication::postEvent: Unexpected null receiver
+  129.976 W QCoreApplication::postEvent: Unexpected null receiver
+  129.976 W QCoreApplication::postEvent: Unexpected null receiver
+  129.976 W QCoreApplication::postEvent: Unexpected null receiver
+  129.976 W QCoreApplication::postEvent: Unexpected null receiver
+  129.976 W QCoreApplication::postEvent: Unexpected null receiver
+  129.976 W QCoreApplication::postEvent: Unexpected null receiver
+  129.976 W QCoreApplication::postEvent: Unexpected null receiver
+  129.976 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  129.992 W QCoreApplication::postEvent: Unexpected null receiver
+  130.007 W QCoreApplication::postEvent: Unexpected null receiver
+  130.007 W QCoreApplication::postEvent: Unexpected null receiver
+  130.007 W QCoreApplication::postEvent: Unexpected null receiver
+  130.007 W QCoreApplication::postEvent: Unexpected null receiver
+  130.007 W QCoreApplication::postEvent: Unexpected null receiver
+  130.007 W QCoreApplication::postEvent: Unexpected null receiver
+  130.007 W QCoreApplication::postEvent: Unexpected null receiver
+  130.007 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.023 W QCoreApplication::postEvent: Unexpected null receiver
+  130.039 W QCoreApplication::postEvent: Unexpected null receiver
+  130.039 W QCoreApplication::postEvent: Unexpected null receiver
+  130.039 W QCoreApplication::postEvent: Unexpected null receiver
+  130.039 W QCoreApplication::postEvent: Unexpected null receiver
+  130.039 W QCoreApplication::postEvent: Unexpected null receiver
+  130.039 W QCoreApplication::postEvent: Unexpected null receiver
+  130.039 W QCoreApplication::postEvent: Unexpected null receiver
+  130.039 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.054 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.070 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.086 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.101 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.117 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.132 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.148 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.164 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.179 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.195 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.210 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.226 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.242 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.258 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.273 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.289 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.304 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.320 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.336 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.351 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.367 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.383 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.398 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.414 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.429 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.445 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 W QCoreApplication::postEvent: Unexpected null receiver
+  130.461 D Task "AssetUpdateTask(0x77807dc)" succeeded
+  130.476 D Task "MinecraftUpdate(0x7780090)" succeeded
+  130.476 D Task "Update(0x7781110)" succeeded
+  130.476 D Task "ModMinecraftJar(0x775aa08)" starting for the first time
+  130.476 D Task "ModMinecraftJar(0x775aa08)" succeeded
+  130.476 D Task "ScanModFolders(0x775ad68)" starting for the first time
+  130.476 W QCoreApplication::postEvent: Unexpected null receiver
+  130.476 D Task "ScanModFolders(0x775ad68)" succeeded
+  130.476 D Task "PrintInstanceInfo(0x77814d0)" starting for the first time
+  130.492 D Task "PrintInstanceInfo(0x77814d0)" succeeded
+  130.492 D Task "ExtractNatives(0x775ac48)" starting for the first time
+  141.904 D Task "ExtractNatives(0x775ac48)" succeeded
+  141.904 D Task "ReconstructAssets(0x775aa68)" starting for the first time
+  141.904 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+  141.904 D Task "ReconstructAssets(0x775aa68)" succeeded
+  141.904 D Task "VerifyJavaInstall(0x775adc8)" starting for the first time
+  141.904 D Task "VerifyJavaInstall(0x775adc8)" succeeded
+  141.904 D Task "LauncherPartLaunch(0x78c1498)" starting for the first time
+  141.904 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx2048m -Duser.language=en -Djava.library.path=F:/MultiMC/MultiMC/instances/Z-Mech Retro/natives -cp F:/MultiMC/MultiMC/jars/NewLaunch.jar;F:/MultiMC/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;F:/MultiMC/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;F:/MultiMC/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;F:/MultiMC/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;F:/MultiMC/MultiMC/libraries/com/mojang/netty/1.8.8/netty-1.8.8.jar;F:/MultiMC/MultiMC/libraries/com/mojang/realms/1.3.5/realms-1.3.5.jar;F:/MultiMC/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;F:/MultiMC/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;F:/MultiMC/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;F:/MultiMC/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;F:/MultiMC/MultiMC/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar;F:/MultiMC/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;F:/MultiMC/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;F:/MultiMC/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar;F:/MultiMC/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;F:/MultiMC/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;F:/MultiMC/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;F:/MultiMC/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;F:/MultiMC/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;F:/MultiMC/MultiMC/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar;F:/MultiMC/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar;F:/MultiMC/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;F:/MultiMC/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;F:/MultiMC/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;F:/MultiMC/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;F:/MultiMC/MultiMC/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar;F:/MultiMC/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9-fixed/log4j-api-2.0-beta9-fixed.jar;F:/MultiMC/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9-fixed/log4j-core-2.0-beta9-fixed.jar;F:/MultiMC/MultiMC/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar;F:/MultiMC/MultiMC/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar;F:/MultiMC/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;F:/MultiMC/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;F:/MultiMC/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;F:/MultiMC/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;F:/MultiMC/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;F:/MultiMC/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;F:/MultiMC/MultiMC/libraries/com/mojang/minecraft/1.7.10/minecraft-1.7.10-client.jar org.multimc.EntryPoint"
+  141.970 D Component list save performed now for "Z-Mech Retro"

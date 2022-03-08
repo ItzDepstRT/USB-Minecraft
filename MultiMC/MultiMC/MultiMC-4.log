@@ -1,0 +1,261 @@
+    1.657 D <> Log initialized.
+    1.657 D "MultiMC 5" , (c) 2013-2021  "MultiMC Contributors"
+    1.657 D Version                    :  "0.6.14-3001"
+    1.657 D Git commit                 :  "80beccb2c4585260e5d170c68f72d3d303f777e0"
+    1.657 D Git refspec                :  "refs/heads/stable"
+    1.672 D Work dir before adjustment :  "I:/"
+    1.672 D Work dir after adjustment  :  "I:/MultiMC/MultiMC"
+    1.672 D Adjusted by                :  "Fallback to binary path I:/MultiMC/MultiMC"
+    1.672 D Binary path                :  "I:/MultiMC/MultiMC"
+    1.672 D Application root path      :  "I:/MultiMC/MultiMC"
+    1.672 D <> Paths set.
+    1.672 D Detected default console font: "Courier" , substitutions: ""
+    1.672 D <> Settings loaded.
+    1.672 D Detecting proxy settings...
+    1.672 D Using no proxy is an option!
+    1.672 D <> Network done.
+    1.672 D Your language is "en_US"
+    1.672 D <> Translations loaded.
+    1.672 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    1.672 D <> Updater started.
+    1.672 D Started watching  "I:/MultiMC/MultiMC/icons"
+    1.672 D Adding  "icons/optifine.ico"
+    1.688 D Adding  "icons/optifabric.ico"
+    1.703 D <> Instance icons intialized.
+    1.703 D <> Icon themes initialized.
+    1.703 D Determining System Theme...
+    1.703 D System theme seems to be: "windowsvista"
+    1.703 D Considering theme from theme factory: "windows"
+    1.703 D Considering theme from theme factory: "windowsxp"
+    1.703 D Considering theme from theme factory: "windowsvista"
+    1.703 D System theme has been determined to be: "WindowsVista"
+    1.703 D Loading theme "custom"
+    1.703 D <> Widget themes initialized.
+    1.703 D Instance path              :  "instances"
+    1.703 D Loading Instances...
+    1.703 D Discovering instances in "I:/MultiMC/MultiMC/instances"
+    1.703 D Found instance ID "1.18.1"
+    1.703 D Found instance ID "1.16.5"
+    1.719 D Found instance ID "1.17.1"
+    1.719 D Found instance ID "1.18.11"
+    1.719 D Found instance ID "1.17.11"
+    1.719 D Found instance ID "1.16.51"
+    1.719 D Found instance ID "1.12.2"
+    1.719 D Found instance ID "1.12.21"
+    1.719 D Found instance ID "1.8.9"
+    1.719 D Found instance ID "1.8.91"
+    1.719 D Found instance ID "1.18.12"
+    1.719 D Found instance ID "1.17.12"
+    1.719 D Found instance ID "1.16.52"
+    1.719 D Found instance ID "Z-Mech Retro"
+    1.719 D Will load group list now.
+    1.719 D Group list loaded.
+    1.719 D Loaded instance  "1.18.1"  from  "I:/MultiMC/MultiMC/instances/1.18.1"
+    1.719 D Loaded instance  "1.16.5"  from  "I:/MultiMC/MultiMC/instances/1.16.5"
+    1.719 D Loaded instance  "1.17.1"  from  "I:/MultiMC/MultiMC/instances/1.17.1"
+    1.719 D Loaded instance  "1.18.1"  from  "I:/MultiMC/MultiMC/instances/1.18.11"
+    1.719 D Loaded instance  "1.17.1"  from  "I:/MultiMC/MultiMC/instances/1.17.11"
+    1.719 D Loaded instance  "1.16.5"  from  "I:/MultiMC/MultiMC/instances/1.16.51"
+    1.735 D Loaded instance  "1.12.2"  from  "I:/MultiMC/MultiMC/instances/1.12.2"
+    1.735 D Loaded instance  "1.12.2"  from  "I:/MultiMC/MultiMC/instances/1.12.21"
+    1.735 D Loaded instance  "1.8.9"  from  "I:/MultiMC/MultiMC/instances/1.8.9"
+    1.735 D Loaded instance  "1.8.9"  from  "I:/MultiMC/MultiMC/instances/1.8.91"
+    1.735 D Loaded instance  "1.18.1"  from  "I:/MultiMC/MultiMC/instances/1.18.12"
+    1.735 D Loaded instance  "1.17.1"  from  "I:/MultiMC/MultiMC/instances/1.17.12"
+    1.735 D Loaded instance  "1.16.5"  from  "I:/MultiMC/MultiMC/instances/1.16.52"
+    1.735 D Loaded instance  "Z-Mech Retro"  from  "I:/MultiMC/MultiMC/instances/Z-Mech Retro"
+    1.735 D <> Instances loaded.
+    1.735 D Loading accounts...
+    1.735 D AccountList: Queued default account with internal ID  "e3915fdf99714e6d938c3fb96679b0a0"  to refresh first
+    1.735 D Task "MSASilent(0x3eec748)" starting for the first time
+    1.735 D AuthFlow: "Logging in with Microsoft account."
+    1.735 D DeviceFlow::refresh: Token: ... "fbMJLcw"
+    2.094 D RefreshSchedule: Processing account  "ZAppFireCZ5853"  with internal ID  "e3915fdf99714e6d938c3fb96679b0a0"
+    2.094 D <> Accounts loaded.
+    2.094 D <> Cache initialized.
+    2.094 D Downloading Translations Index...
+    2.109 D Task "NetJob(Translations Index)" starting for the first time
+    2.109 D <> Icon theme set.
+    2.109 D <> Application theme set.
+    2.109 D <> Initialized analytics with tid "UA-87731965-2"
+    2.219 D Task "JavaListLoadTask(0x3ff0b78)" starting for the first time
+    2.219 D Probing the following Java paths: 
+    2.219 D   "C:/Program Files/Java/jre8/bin/javaw.exe"
+    2.219 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+    2.219 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+    2.219 D   "C:/Program Files (x86)/Java/jre8/bin/javaw.exe"
+    2.219 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+    2.219 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+    2.219 D   "javaw"
+    2.219 D Task "JavaCheckerJob(0x3ff10b8)" starting for the first time
+    2.219 D "Java detection"  started.
+    2.219 D "Running java checker: C:/Program Files/Java/jre8/bin/javaw.exe-jar I:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.219 D Java checker has failed to start.
+    2.219 D Process environment:
+    2.219 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.219 D Native environment:
+    2.219 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.219 D "Java detection" progress: 1 / 7
+    2.219 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar I:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.219 D Java checker has failed to start.
+    2.219 D Process environment:
+    2.219 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.235 D Native environment:
+    2.235 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.235 D "Java detection" progress: 2 / 7
+    2.235 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar I:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.235 D Java checker has failed to start.
+    2.235 D Process environment:
+    2.235 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.235 D Native environment:
+    2.235 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.235 D "Java detection" progress: 3 / 7
+    2.235 D "Running java checker: C:/Program Files (x86)/Java/jre8/bin/javaw.exe-jar I:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.235 D Java checker has failed to start.
+    2.235 D Process environment:
+    2.235 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.235 D Native environment:
+    2.235 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.235 D "Java detection" progress: 4 / 7
+    2.235 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar I:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.235 D Java checker has failed to start.
+    2.235 D Process environment:
+    2.235 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.235 D Native environment:
+    2.235 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.235 D "Java detection" progress: 5 / 7
+    2.235 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar I:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.235 D Java checker has failed to start.
+    2.235 D Process environment:
+    2.235 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.250 D Native environment:
+    2.250 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.250 D "Java detection" progress: 6 / 7
+    2.250 D "Running java checker: javaw-jar I:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.250 D Java checker has failed to start.
+    2.250 D Process environment:
+    2.250 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.250 D Native environment:
+    2.250 D ("COMPUTERNAME=310-15", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "LOGONSERVER=\\\\AD", "PROCESSOR_REVISION=9e09", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "Path=C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\9.BHotar\\AppData\\Local\\Microsoft\\WindowsApps;", "HOMEPATH=\\", "USERPROFILE=C:\\Users\\9.BHotar", "ProgramW6432=C:\\Program Files", "USERNAME=9.BHotar", "PROCESSOR_LEVEL=6", "ProgramFiles=C:\\Program Files (x86)", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "LOCALAPPDATA=C:\\Users\\9.BHotar\\AppData\\Local", "HOMEDRIVE=H:", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel", "NUMBER_OF_PROCESSORS=4", "USERDOMAIN=ZSKS", "APPDATA=I:\\\\MultiMC", "=::=::\\", "SystemDrive=C:", "windir=C:\\Windows", "OS=Windows_NT", "=I:=I:\\", "PROCESSOR_ARCHITECTURE=x86", "USERDNSDOMAIN=ZSKS.LOCAL", "OneDrive=C:\\Users\\9.BHotar\\OneDrive", "SystemRoot=C:\\Windows", "CommonProgramW6432=C:\\Program Files\\Common Files", "TMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "SESSIONNAME=Console", "PUBLIC=C:\\Users\\Public", "TEMP=C:\\Users\\987BA~1.BHO\\AppData\\Local\\Temp", "ZES_ENABLE_SYSMAN=1", "ALLUSERSPROFILE=C:\\ProgramData", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "ProgramFiles(x86)=C:\\Program Files (x86)", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=ZSKS", "HOMESHARE=\\\\ZSKS-S1\\Home-ZAK\\9.BHotar", "ComSpec=C:\\Windows\\system32\\cmd.exe", "FPS_BROWSER_USER_PROFILE_STRING=Default", "PROMPT=$P$G", "ProgramData=C:\\ProgramData")
+    2.250 D "Java detection" progress: 7 / 7
+    2.250 D Task "JavaCheckerJob(0x3ff10b8)" succeeded
+    2.250 D Found the following valid Java installations:
+    2.250 D Task "JavaListLoadTask(0x3ff0b78)" succeeded
+    2.250 W QCoreApplication::postEvent: Unexpected null receiver
+    2.313 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    2.344 D Dir changed: "I:/MultiMC/MultiMC/translations"
+    2.469 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    2.469 D Task "NetJob(Translations Index)" succeeded
+    2.469 D Got translations index!
+    2.485 D Dir changed: "I:/MultiMC/MultiMC/translations"
+    2.657 D DeviceFlow::setLinked: true
+    2.657 D AuthFlow: "Logging in as an Xbox user."
+    2.657 D First layer of XBox auth ... commencing.
+    2.657 D New token expires in QDateTime(2022-02-22 14:21:30.442 UTC Qt::TimeSpec(UTC)) seconds
+    3.672 D Parsing "UToken" :
+    3.672 D "UToken" is valid.
+    3.687 D AuthFlow: "Getting authorization to access Xbox services."
+    3.687 D Getting authorization token for  "http://xboxlive.com"
+    4.531 D Parsing "Xbox" :
+    4.531 D "Xbox" is valid.
+    4.531 D AuthFlow: "Getting authorization to access Mojang services."
+    4.531 D Getting authorization token for  "rp://api.minecraftservices.com/"
+    4.875 D Parsing "Mojang" :
+    4.875 D "Mojang" is valid.
+    4.875 D AuthFlow: "Accessing Mojang services."
+    4.875 D Getting Minecraft access token...
+    5.047 D "{\n  \"username\" : \"3aa246d1-00cb-4359-920d-77db7ed9d957\",\n  \"roles\" : [ ],\n  \"access_token\" : \"eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQ0MjE4MzI2MDg3MyIsImFnZyI6IkFkdWx0Iiwic3ViIjoiM2FhMjQ2ZDEtMDBjYi00MzU5LTkyMGQtNzdkYjdlZDlkOTU3IiwibmJmIjoxNjQ1NTM2MDg1LCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NDU2MjI0ODUsImlhdCI6MTY0NTUzNjA4NSwicGxhdGZvcm0iOiJQQ19MQVVOQ0hFUiIsInl1aWQiOiI1M2RlNTQ0YTRjMzJiYjU3MDcwZmMzOTNlMDQ0NmIzYSJ9.cXJHH-Ry95USEiueZbxlx3zVVas5CrjZcp1tIqHh_B8\",\n  \"expires_in\" : 86400,\n  \"token_type\" : \"Bearer\"\n}"
+    5.047 D Parsing Mojang response...
+    5.047 D Mojang response is valid.
+    5.047 D AuthFlow: "Fetching Xbox profile."
+    5.047 D Getting Xbox profile...
+    5.656 D AuthFlow: "Determining game ownership."
+    5.656 D Getting entitlements...
+    6.359 D Parsing Minecraft entitlements...
+    6.359 D AuthFlow: "Fetching the Minecraft profile."
+    6.687 D Parsing Minecraft profile...
+    6.687 D AuthFlow: "Getting skin."
+    6.749 D Task "MSASilent(0x3eec748)" succeeded
+    6.749 D Writing account list to "accounts.json"
+    6.749 D Building JSON data structure.
+    6.749 D Building account array.
+    6.749 D Writing account list to file.
+    6.796 D Saved account list to "accounts.json"
+    6.796 D RefreshSchedule: Background account refresh succeeded
+   19.231 D "Running java checker: I:/Adoptium Temurin Open JDK 17.1/OpenJDKJRE/bin/javaw.exe-Xms512m -Xmx2048m -jar I:/MultiMC/MultiMC/jars/JavaCheck.jar"
+   19.434 D STDOUT "Error occurred during initialization of VM\nCould not reserve enough space for 2097152KB object heap\n"
+   19.434 W STDERR ""
+   19.434 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  1
+   25.870 D Wizard result = 1
+   25.902 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+   25.902 D Reloading news.
+   25.902 D Task "NetJob(News RSS Feed)" starting for the first time
+   25.917 D Checking for updates.
+   25.917 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+   25.917 D Loading the channel list.
+   25.917 D Task "NetJob(Update System Channel List)" starting for the first time
+   25.917 D Task "NetJob(Checking for notifications)" starting for the first time
+   25.980 D Viewport size "800x600"
+   25.980 D RAM size is 8100 MB
+   25.980 D [Analytics] "ScreenView: Main Window"
+   25.980 D <> Main window shown.
+   25.995 D Downloading  "https://multimc.org/rss.xml"
+   25.995 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+   25.995 D Downloading  "https://files.multimc.org/notifications.json"
+   26.042 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+   26.042 D Task "NetJob(Update System Channel List)" succeeded
+   26.042 D Successfully loaded UpdateChecker channel list.
+   26.042 D Checking for updates.
+   26.042 D channelEntry =  "stable"
+   26.042 D is intended update channel:  "stable"
+   26.058 D is current update channel:  "stable"
+   26.058 D channelEntry =  "develop"
+   26.058 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+   26.058 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+   26.058 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+   26.105 D Download succeeded: "https://files.multimc.org/notifications.json"
+   26.152 D Task "NetJob(Checking for notifications)" succeeded
+   26.152 D Location header: QUrl("https://files.multimc.org/update/win32/stable/index.json")
+   26.152 D Following redirect to  "https://files.multimc.org/update/win32/stable/index.json"
+   26.152 D Downloading  "https://files.multimc.org/update/win32/stable/index.json"
+   26.152 D Download redirected: "https://files.multimc.org/update/win32/stable/index.json"
+   26.199 D Download succeeded: "https://files.multimc.org/update/win32/stable/index.json"
+   26.199 D Task "NetJob(GoUpdate Repository Index)" succeeded
+   26.199 D Finished downloading repo index. Checking for new versions.
+   26.199 D Processing repository version list.
+   26.292 D Download succeeded: "https://multimc.org/rss.xml"
+   26.292 D Task "NetJob(News RSS Feed)" succeeded
+   26.308 D Finished loading RSS feed.
+   26.308 D Loaded news entry "IMPORTANT MESSAGE - Security vulnerability in Minecraft"
+   26.308 D Loaded news entry "0.6.14 - Microsoft account refinement, Forge 1.17+ and other fixes"
+   26.308 D Loaded news entry "0.6.13 - Microsoft account integration"
+   26.308 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+   26.308 D Loaded news entry "About Microsoft accounts"
+   26.308 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+   26.308 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+   26.308 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+   26.308 D Loaded news entry "0.6.3 - The Big Sync"
+   26.308 D Loaded news entry "0.6.2 Released!"
+   26.308 D Loaded news entry "0.6.1 Released!"
+   26.308 D Loaded news entry "0.6.0 Released!"
+   26.308 D Loaded news entry "Introducing the Archive"
+   26.308 D Loaded news entry "0.5.1 - Bugfixes."
+   26.308 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+   26.308 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+   26.308 D Loaded news entry "0.4.10 - Another wifi fix"
+   26.308 D Loaded news entry "0.4.9 - the Windows wifi fix."
+   26.308 D Loaded news entry "0.4.8 - Worlds and more."
+   26.308 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+   26.308 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+   26.308 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+   26.308 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+   26.308 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+   26.308 D Loaded news entry "Support us on Patreon!"
+   26.308 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+   26.308 D Loaded news entry "Announcing MultiMC 6"
+   26.308 D Loaded news entry "0.3 - The big feature update."
+   26.308 D Loaded news entry "First official MultiMC 5 release!"
+   26.323 D Loaded news entry "MultiMC Status Update"
+   26.323 D News loading succeeded.
+   32.135 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=c96b8e70-8551-4c57-8bc3-c5bd07101412&t=screenview&ul=cs-cz&vp=800x600&sr=1920x1080&aip=1&cd=Main Window&an=MultiMC&av=0.6.14-3001&cd1=1.8.0_312&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=2048&cm3=8100&qt=6155"
+   32.213 D [Analytics] "Message sent"

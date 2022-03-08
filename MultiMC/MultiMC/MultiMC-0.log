@@ -1,0 +1,442 @@
+    0.208 D <> Log initialized.
+    0.209 D "MultiMC 5" , (c) 2013-2021  "MultiMC Contributors"
+    0.209 D Version                    :  "0.6.14-3001"
+    0.209 D Git commit                 :  "80beccb2c4585260e5d170c68f72d3d303f777e0"
+    0.209 D Git refspec                :  "refs/heads/stable"
+    0.210 D Work dir before adjustment :  "E:/"
+    0.210 D Work dir after adjustment  :  "E:/MultiMC/MultiMC"
+    0.210 D Adjusted by                :  "Fallback to binary path E:/MultiMC/MultiMC"
+    0.210 D Binary path                :  "E:/MultiMC/MultiMC"
+    0.210 D Application root path      :  "E:/MultiMC/MultiMC"
+    0.211 D <> Paths set.
+    0.228 D Detected default console font: "Courier" , substitutions: ""
+    0.230 D <> Settings loaded.
+    0.257 D Detecting proxy settings...
+    0.262 D Using no proxy is an option!
+    0.263 D <> Network done.
+    0.283 D Your language is "en_US"
+    0.284 D <> Translations loaded.
+    0.284 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    0.284 D <> Updater started.
+    0.311 D Started watching  "E:/MultiMC/MultiMC/icons"
+    0.311 D Adding  "icons/zmech_retro.ico"
+    0.528 D Adding  "icons/optifine.ico"
+    0.547 D Adding  "icons/optifabric.ico"
+    0.563 D <> Instance icons intialized.
+    0.564 D <> Icon themes initialized.
+    0.564 D Determining System Theme...
+    0.564 D System theme seems to be: "windowsvista"
+    0.566 D Considering theme from theme factory: "windows"
+    0.566 D Considering theme from theme factory: "windowsxp"
+    0.566 D Considering theme from theme factory: "windowsvista"
+    0.567 D System theme has been determined to be: "WindowsVista"
+    0.569 D Loading theme "custom"
+    0.584 D <> Widget themes initialized.
+    0.584 D Instance path              :  "instances"
+    0.585 D Loading Instances...
+    0.585 D Discovering instances in "E:/MultiMC/MultiMC/instances"
+    0.586 D Found instance ID "1.18.1"
+    0.586 D Found instance ID "1.16.5"
+    0.587 D Found instance ID "1.17.1"
+    0.587 D Found instance ID "1.18.11"
+    0.587 D Found instance ID "1.17.11"
+    0.588 D Found instance ID "1.16.51"
+    0.588 D Found instance ID "1.12.2"
+    0.589 D Found instance ID "1.12.21"
+    0.589 D Found instance ID "1.8.9"
+    0.589 D Found instance ID "1.8.91"
+    0.590 D Found instance ID "1.18.12"
+    0.590 D Found instance ID "1.17.12"
+    0.590 D Found instance ID "1.16.52"
+    0.591 D Found instance ID "Z-Mech Retro"
+    0.591 D Will load group list now.
+    0.597 D Group list loaded.
+    0.607 D Loaded instance  "1.18.1"  from  "E:/MultiMC/MultiMC/instances/1.18.1"
+    0.616 D Loaded instance  "1.16.5"  from  "E:/MultiMC/MultiMC/instances/1.16.5"
+    0.623 D Loaded instance  "1.17.1"  from  "E:/MultiMC/MultiMC/instances/1.17.1"
+    0.631 D Loaded instance  "1.18.1"  from  "E:/MultiMC/MultiMC/instances/1.18.11"
+    0.638 D Loaded instance  "1.17.1"  from  "E:/MultiMC/MultiMC/instances/1.17.11"
+    0.650 D Loaded instance  "1.16.5"  from  "E:/MultiMC/MultiMC/instances/1.16.51"
+    0.657 D Loaded instance  "1.12.2"  from  "E:/MultiMC/MultiMC/instances/1.12.2"
+    0.670 D Loaded instance  "1.12.2"  from  "E:/MultiMC/MultiMC/instances/1.12.21"
+    0.682 D Loaded instance  "1.8.9"  from  "E:/MultiMC/MultiMC/instances/1.8.9"
+    0.690 D Loaded instance  "1.8.9"  from  "E:/MultiMC/MultiMC/instances/1.8.91"
+    0.699 D Loaded instance  "1.18.1"  from  "E:/MultiMC/MultiMC/instances/1.18.12"
+    0.706 D Loaded instance  "1.17.1"  from  "E:/MultiMC/MultiMC/instances/1.17.12"
+    0.718 D Loaded instance  "1.16.5"  from  "E:/MultiMC/MultiMC/instances/1.16.52"
+    0.726 D Loaded instance  "Z-Mech Retro"  from  "E:/MultiMC/MultiMC/instances/Z-Mech Retro"
+    0.727 D <> Instances loaded.
+    0.727 D Loading accounts...
+    0.777 D AccountList: Queued default account with internal ID  "6aacc5ce19b44bc289f92239b2478d30"  to refresh first
+    0.780 D Task "MSASilent(0x19bcb10)" starting for the first time
+    0.781 D AuthFlow: "Logging in with Microsoft account."
+    0.781 D DeviceFlow::refresh: Token: ... "mIMsQ$$"
+    1.485 D RefreshSchedule: Processing account  "DarkLordcz11"  with internal ID  "6aacc5ce19b44bc289f92239b2478d30"
+    1.486 D <> Accounts loaded.
+    1.502 D <> Cache initialized.
+    1.502 D Downloading Translations Index...
+    1.503 D Task "NetJob(Translations Index)" starting for the first time
+    1.546 D <> Icon theme set.
+    1.556 D <> Application theme set.
+    1.557 D <> Initialized analytics with tid "UA-87731965-2"
+    1.794 D Task "JavaListLoadTask(0x406b3b0)" starting for the first time
+    1.814 D Probing the following Java paths: 
+    1.815 D   "C:/Program Files/Java/jre1.8.0_311/bin/javaw.exe"
+    1.817 D   "C:/Program Files/Java/jre8/bin/javaw.exe"
+    1.818 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+    1.819 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+    1.820 D   "C:/Program Files/Eclipse Adoptium/jdk-17.0.1.12-hotspot/bin/javaw.exe"
+    1.822 D   "C:/Program Files/Java/jdk-17.0.1/bin/javaw.exe"
+    1.823 D   "C:/Program Files/Eclipse Adoptium/jdk-8.0.312.7-hotspot/bin/javaw.exe"
+    1.824 D   "C:/Program Files (x86)/Java/jre8/bin/javaw.exe"
+    1.825 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+    1.826 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+    1.827 D   "javaw"
+    1.828 D Task "JavaCheckerJob(0x406b650)" starting for the first time
+    1.829 D "Java detection"  started.
+    1.830 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    1.834 D "Running java checker: C:/Program Files/Java/jre1.8.0_311/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.200 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.201 D "Running java checker: C:/Program Files/Java/jre8/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.202 D Java checker has failed to start.
+    2.202 D Process environment:
+    2.203 D ("COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.203 D Native environment:
+    2.204 D ("JAVA_HOME=C:\\Program Files\\Java\\jdk-17.0.1", "COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.208 D "Java detection" progress: 1 / 11
+    2.209 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.209 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.212 D Java checker has failed to start.
+    2.213 D Process environment:
+    2.214 D ("COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.214 D Native environment:
+    2.215 D ("JAVA_HOME=C:\\Program Files\\Java\\jdk-17.0.1", "COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.215 D "Java detection" progress: 2 / 11
+    2.216 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.216 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.217 D Java checker has failed to start.
+    2.218 D Process environment:
+    2.218 D ("COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.219 D Native environment:
+    2.219 D ("JAVA_HOME=C:\\Program Files\\Java\\jdk-17.0.1", "COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.220 D "Java detection" progress: 3 / 11
+    2.223 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.223 D "Running java checker: C:/Program Files/Eclipse Adoptium/jdk-17.0.1.12-hotspot/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.389 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.389 D "Running java checker: C:/Program Files/Java/jdk-17.0.1/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.405 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.407 D "Running java checker: C:/Program Files/Eclipse Adoptium/jdk-8.0.312.7-hotspot/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.503 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.504 D "Running java checker: C:/Program Files (x86)/Java/jre8/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.514 D Java checker has failed to start.
+    2.515 D Process environment:
+    2.515 D ("COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.516 D Native environment:
+    2.516 D ("JAVA_HOME=C:\\Program Files\\Java\\jdk-17.0.1", "COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.517 D "Java detection" progress: 4 / 11
+    2.517 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.518 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.518 D Java checker has failed to start.
+    2.519 D Process environment:
+    2.519 D ("COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.520 D Native environment:
+    2.520 D ("JAVA_HOME=C:\\Program Files\\Java\\jdk-17.0.1", "COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.521 D "Java detection" progress: 5 / 11
+    2.521 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.521 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.522 D Java checker has failed to start.
+    2.522 D Process environment:
+    2.523 D ("COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.523 D Native environment:
+    2.524 D ("JAVA_HOME=C:\\Program Files\\Java\\jdk-17.0.1", "COMPUTERNAME=DESKTOP-ZAPP", "=E:=E:\\", "IntelliJ IDEA Community Edition=C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "ProgramFiles(x86)=C:\\Program Files (x86)", "Path=C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.312.7-hotspot\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.1.12-hotspot\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\OpenJDK\\jdk-8.0.262.10-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\Program Files\\WorldPainter;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-17.0.1\\bin;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;C:\\Program Files\\PuTTY\\;C:\\Users\\Main\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Main\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Main\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2021.3\\bin;", "PROCESSOR_ARCHITEW6432=AMD64", "LOCALAPPDATA=C:\\Users\\Main\\AppData\\Local", "PROCESSOR_LEVEL=6", "SystemRoot=C:\\Windows", "TMP=C:\\Users\\Main\\AppData\\Local\\Temp", "OneDriveConsumer=C:\\Users\\Main\\OneDrive", "OS=Windows_NT", "HOMEDRIVE=C:", "SystemDrive=C:", "APPDATA=E:\\\\MultiMC", "PROCESSOR_ARCHITECTURE=x86", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ZAPP", "PROCESSOR_REVISION=3c03", "CommonProgramW6432=C:\\Program Files\\Common Files", "=::=::\\", "NUMBER_OF_PROCESSORS=4", "windir=C:\\Windows", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "PROMPT=$P$G", "ComSpec=C:\\Windows\\system32\\cmd.exe", "ProgramW6432=C:\\Program Files", "USERDOMAIN=DESKTOP-ZAPP", "ProgramFiles=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\Main", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OneDrive=C:\\Users\\Main\\OneDrive", "LOGONSERVER=\\\\DESKTOP-ZAPP", "TEMP=C:\\Users\\Main\\AppData\\Local\\Temp", "HOMEPATH=\\Users\\Main", "SESSIONNAME=Console", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel", "USERNAME=Main", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PUBLIC=C:\\Users\\Public", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramData=C:\\ProgramData")
+    2.524 D "Java detection" progress: 6 / 11
+    2.525 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.527 D "Running java checker: javaw-jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    2.679 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    2.771 D Dir changed: "E:/MultiMC/MultiMC/translations"
+    2.790 D STDOUT "os.arch=amd64\njava.version=1.8.0_311\njava.vendor=Oracle Corporation\n"
+    2.792 W STDERR ""
+    2.792 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    2.792 D Java checker succeeded.
+    2.792 D "Java detection" progress: 7 / 11
+    2.796 D STDOUT "os.arch=amd64\njava.version=17.0.1\njava.vendor=Oracle Corporation\n"
+    2.796 W STDERR ""
+    2.798 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    2.799 D Java checker succeeded.
+    2.800 D "Java detection" progress: 8 / 11
+    2.920 D STDOUT "os.arch=amd64\njava.version=17.0.1\njava.vendor=Oracle Corporation\n"
+    2.921 W STDERR ""
+    2.921 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    2.922 D Java checker succeeded.
+    2.922 D "Java detection" progress: 9 / 11
+    2.958 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    2.958 D Task "NetJob(Translations Index)" succeeded
+    2.959 D Got translations index!
+    2.960 D Dir changed: "E:/MultiMC/MultiMC/translations"
+    2.961 D STDOUT "os.arch=amd64\njava.version=17.0.1\njava.vendor=Eclipse Adoptium\n"
+    2.961 W STDERR ""
+    2.962 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    2.962 D Java checker succeeded.
+    2.963 D "Java detection" progress: 10 / 11
+    2.965 D STDOUT "os.arch=amd64\njava.version=1.8.0_312\njava.vendor=Temurin\n"
+    2.965 W STDERR ""
+    2.966 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    2.967 D Java checker succeeded.
+    2.967 D "Java detection" progress: 11 / 11
+    2.968 D Task "JavaCheckerJob(0x406b650)" succeeded
+    2.969 D Found the following valid Java installations:
+    2.969 D   "1.8.0_311" "64" "C:/Program Files/Java/jre1.8.0_311/bin/javaw.exe"
+    2.970 D   "17.0.1" "64" "C:/Program Files/Eclipse Adoptium/jdk-17.0.1.12-hotspot/bin/javaw.exe"
+    2.970 D   "17.0.1" "64" "C:/Program Files/Java/jdk-17.0.1/bin/javaw.exe"
+    2.971 D   "1.8.0_312" "64" "C:/Program Files/Eclipse Adoptium/jdk-8.0.312.7-hotspot/bin/javaw.exe"
+    2.971 D   "17.0.1" "64" "javaw"
+    2.972 D Task "JavaListLoadTask(0x406b3b0)" succeeded
+    2.982 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+    2.982 D "Running java checker: C:/Program Files/Eclipse Adoptium/jdk-8.0.312.7-hotspot/bin/javaw.exe-Xms512m -Xmx2048m -jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+    3.102 D STDOUT "os.arch=amd64\njava.version=1.8.0_312\njava.vendor=Temurin\n"
+    3.102 W STDERR ""
+    3.103 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    3.103 D Java checker succeeded.
+    3.172 D DeviceFlow::setLinked: true
+    3.172 D AuthFlow: "Logging in as an Xbox user."
+    3.173 D First layer of XBox auth ... commencing.
+    3.177 D New token expires in QDateTime(2022-03-08 18:44:39.472 UTC Qt::TimeSpec(UTC)) seconds
+    4.293 D Parsing "UToken" :
+    4.294 D "UToken" is valid.
+    4.295 D AuthFlow: "Getting authorization to access Xbox services."
+    4.297 D Getting authorization token for  "http://xboxlive.com"
+    5.193 D Parsing "Xbox" :
+    5.194 D "Xbox" is valid.
+    5.196 D AuthFlow: "Getting authorization to access Mojang services."
+    5.197 D Getting authorization token for  "rp://api.minecraftservices.com/"
+    5.643 D Parsing "Mojang" :
+    5.644 D "Mojang" is valid.
+    5.645 D AuthFlow: "Accessing Mojang services."
+    5.646 D Getting Minecraft access token...
+    5.878 D "{\n  \"username\" : \"d3cef77c-4206-4b68-818a-a219cd746f4b\",\n  \"roles\" : [ ],\n  \"access_token\" : \"eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQyMzIyMTY3MTI3OSIsImFnZyI6IlRlZW4iLCJzdWIiOiJkM2NlZjc3Yy00MjA2LTRiNjgtODE4YS1hMjE5Y2Q3NDZmNGIiLCJuYmYiOjE2NDY3NjE0ODIsImF1dGgiOiJYQk9YIiwicm9sZXMiOltdLCJpc3MiOiJhdXRoZW50aWNhdGlvbiIsImV4cCI6MTY0Njg0Nzg4MiwiaWF0IjoxNjQ2NzYxNDgyLCJwbGF0Zm9ybSI6IlBDX0xBVU5DSEVSIiwieXVpZCI6IjE1M2M1MDdjNTdkZmFlYTI3MjdhNDc2MTRlYzJhYmFlIn0.S__H9t_YFmZK77fKCOwHmJyhHbPK5uZVzcTkLXqOP2U\",\n  \"expires_in\" : 86400,\n  \"token_type\" : \"Bearer\"\n}"
+    5.879 D Parsing Mojang response...
+    5.880 D Mojang response is valid.
+    5.881 D AuthFlow: "Fetching Xbox profile."
+    5.882 D Getting Xbox profile...
+    6.636 D AuthFlow: "Determining game ownership."
+    6.637 D Getting entitlements...
+    7.248 D Parsing Minecraft entitlements...
+    7.249 D AuthFlow: "Fetching the Minecraft profile."
+    7.383 D Parsing Minecraft profile...
+    7.384 D AuthFlow: "Getting skin."
+    7.549 D Task "MSASilent(0x19bcb10)" succeeded
+    7.550 D Writing account list to "accounts.json"
+    7.550 D Building JSON data structure.
+    7.551 D Building account array.
+    7.551 D Writing account list to file.
+    7.586 D Saved account list to "accounts.json"
+    7.586 D RefreshSchedule: Background account refresh succeeded
+   38.619 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+   38.619 D "Running java checker: E:/Adoptium Temurin Open JDK 17.1/OpenJDKJRE64/bin/javaw.exe-Xms512m -Xmx2048m -jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+   38.793 D STDOUT "os.arch=amd64\njava.version=17.0.1\njava.vendor=Eclipse Adoptium\n"
+   38.793 W STDERR ""
+   38.794 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   38.794 D Java checker succeeded.
+   57.481 D Env: ignoring "JAVA_HOME" "C:\\Program Files\\Java\\jdk-17.0.1"
+   57.481 D "Running java checker: E:/OpenJre 8/Java_64/bin/javaw.exe-Xms512m -Xmx2048m -jar E:/MultiMC/MultiMC/jars/JavaCheck.jar"
+   58.649 D STDOUT "os.arch=amd64\njava.version=1.8.0_311\njava.vendor=Oracle Corporation\n"
+   58.649 W STDERR ""
+   58.650 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   58.650 D Java checker succeeded.
+  307.052 D Wizard result = 1
+  307.195 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+  307.205 D Reloading news.
+  307.205 D Task "NetJob(News RSS Feed)" starting for the first time
+  307.206 D Checking for updates.
+  307.206 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+  307.207 D Loading the channel list.
+  307.207 D Task "NetJob(Update System Channel List)" starting for the first time
+  307.208 D Task "NetJob(Checking for notifications)" starting for the first time
+  307.275 D Viewport size "800x600"
+  307.280 D RAM size is 8077 MB
+  307.284 D [Analytics] "ScreenView: Main Window"
+  307.285 D <> Main window shown.
+  307.336 D Downloading  "https://multimc.org/rss.xml"
+  307.336 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+  307.341 D Downloading  "https://files.multimc.org/notifications.json"
+  307.503 D Download succeeded: "https://files.multimc.org/notifications.json"
+  307.535 D Task "NetJob(Checking for notifications)" succeeded
+  307.536 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+  307.536 D Task "NetJob(Update System Channel List)" succeeded
+  307.537 D Successfully loaded UpdateChecker channel list.
+  307.538 D Checking for updates.
+  307.538 D channelEntry =  "stable"
+  307.538 D is intended update channel:  "stable"
+  307.539 D is current update channel:  "stable"
+  307.539 D channelEntry =  "develop"
+  307.540 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+  307.540 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+  307.541 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+  307.602 D Location header: QUrl("https://files.multimc.org/update/win32/stable/index.json")
+  307.602 D Following redirect to  "https://files.multimc.org/update/win32/stable/index.json"
+  307.603 D Downloading  "https://files.multimc.org/update/win32/stable/index.json"
+  307.603 D Download redirected: "https://files.multimc.org/update/win32/stable/index.json"
+  307.654 D Download succeeded: "https://multimc.org/rss.xml"
+  307.654 D Task "NetJob(News RSS Feed)" succeeded
+  307.655 D Finished loading RSS feed.
+  307.665 D Loaded news entry "Migration to Microsoft account is required"
+  307.666 D Loaded news entry "IMPORTANT MESSAGE - Security vulnerability in Minecraft"
+  307.666 D Loaded news entry "0.6.14 - Microsoft account refinement, Forge 1.17+ and other fixes"
+  307.667 D Loaded news entry "0.6.13 - Microsoft account integration"
+  307.667 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+  307.667 D Loaded news entry "About Microsoft accounts"
+  307.668 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+  307.668 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+  307.668 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+  307.669 D Loaded news entry "0.6.3 - The Big Sync"
+  307.669 D Loaded news entry "0.6.2 Released!"
+  307.670 D Loaded news entry "0.6.1 Released!"
+  307.670 D Loaded news entry "0.6.0 Released!"
+  307.670 D Loaded news entry "Introducing the Archive"
+  307.671 D Loaded news entry "0.5.1 - Bugfixes."
+  307.671 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+  307.672 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+  307.672 D Loaded news entry "0.4.10 - Another wifi fix"
+  307.673 D Loaded news entry "0.4.9 - the Windows wifi fix."
+  307.673 D Loaded news entry "0.4.8 - Worlds and more."
+  307.674 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+  307.674 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+  307.675 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+  307.675 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+  307.676 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+  307.678 D Loaded news entry "Support us on Patreon!"
+  307.679 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+  307.679 D Loaded news entry "Announcing MultiMC 6"
+  307.680 D Loaded news entry "0.3 - The big feature update."
+  307.680 D Loaded news entry "First official MultiMC 5 release!"
+  307.680 D Loaded news entry "MultiMC Status Update"
+  307.681 D News loading succeeded.
+  307.682 D Download succeeded: "https://files.multimc.org/update/win32/stable/index.json"
+  307.682 D Task "NetJob(GoUpdate Repository Index)" succeeded
+  307.682 D Finished downloading repo index. Checking for new versions.
+  307.683 D Processing repository version list.
+  317.822 D Selected index 0 channel id "stable"
+  331.993 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=c96b8e70-8551-4c57-8bc3-c5bd07101412&t=screenview&ul=en-gb&vp=800x600&sr=1680x1050&aip=1&cd=Main Window&an=MultiMC&av=0.6.14-3001&cd1=1.8.0_311&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=2048&cm3=8077&qt=24708"
+  332.094 D [Analytics] "Message sent"
+  354.308 D Writing account list to "accounts.json"
+  354.309 D Building JSON data structure.
+  354.309 D Building account array.
+  354.310 D Writing account list to file.
+  354.339 D Saved account list to "accounts.json"
+  354.344 D Writing account list to "accounts.json"
+  354.345 D Building JSON data structure.
+  354.345 D Building account array.
+  354.346 D Writing account list to file.
+  354.367 D Saved account list to "accounts.json"
+  356.872 D Paged dialog close requested
+  356.873 D Analytics enabled by user.
+  356.874 D Detecting proxy settings...
+  356.874 D Using no proxy is an option!
+  356.875 D Paged dialog close approved
+  356.875 D Paged dialog geometry saved
+  356.916 D Discovering instances in "E:/MultiMC/MultiMC/instances"
+  356.917 D Found instance ID "1.18.1"
+  356.918 D Found instance ID "1.16.5"
+  356.918 D Found instance ID "1.17.1"
+  356.919 D Found instance ID "1.18.11"
+  356.919 D Found instance ID "1.17.11"
+  356.920 D Found instance ID "1.16.51"
+  356.920 D Found instance ID "1.12.2"
+  356.920 D Found instance ID "1.12.21"
+  356.921 D Found instance ID "1.8.9"
+  356.921 D Found instance ID "1.8.91"
+  356.922 D Found instance ID "1.18.12"
+  356.922 D Found instance ID "1.17.12"
+  356.922 D Found instance ID "1.16.52"
+  356.923 D Found instance ID "Z-Mech Retro"
+  356.923 D Should keep and soft-reload "1.18.1"
+  356.923 D Should keep and soft-reload "1.16.5"
+  356.924 D Should keep and soft-reload "1.17.1"
+  356.924 D Should keep and soft-reload "1.18.11"
+  356.924 D Should keep and soft-reload "1.17.11"
+  356.925 D Should keep and soft-reload "1.16.51"
+  356.925 D Should keep and soft-reload "1.12.2"
+  356.926 D Should keep and soft-reload "1.12.21"
+  356.926 D Should keep and soft-reload "1.8.9"
+  356.926 D Should keep and soft-reload "1.8.91"
+  356.927 D Should keep and soft-reload "1.18.12"
+  356.927 D Should keep and soft-reload "1.17.12"
+  356.927 D Should keep and soft-reload "1.16.52"
+  356.928 D Should keep and soft-reload "Z-Mech Retro"
+  708.965 D Selected index 0 channel id "stable"
+  836.147 D Task "MSAInteractive(0x4bf0d08)" starting for the first time
+  836.147 D AuthFlow: "Logging in with Microsoft account."
+  836.148 D DeviceFlow::link
+  836.148 D DeviceFlow::setLinked: false
+  836.578 D DeviceFlow::onDeviceAuthReplyFinished
+  836.587 D DeviceFlow::onDeviceAuthReplyFinished: Tokens returned:
+
+  836.588 D "device_code" :  "DAQABAAEAAAD--DLA3VO7QrddgJg7WevrkvVldd3VPduACYCHHKkLF1p3m_d4KpU97HeQyOBg46bHubZDpFAoDgSHIWDZqX3bkAY8f47P6_kYM6eLdBXUdj0Uxw0zZVSAhavbyuG_uHHp6jMepoo_CsBp4Ii2vjKe7TtOHSt91LuBnEdjNY9T5MBXNJbiYlnqH6rjVIonX2FOnEHgfDBWqvhpSkv1duivm-0zaTq960xv5J4C1YoZ_bYXKoFSxultM39iiRfgAubNzn3mx6Zwo0WWcmt1AyquSPCzRKe2hoYUrTVl2ql01nYfMO-lVNjTjg0ZApBSD7J_-R-fgw8H_igs5eUd76dp_9z3PVHLKsa6ePLRp1XJvvCYjqthfAmu808kMMkmzhbvpgwlYz2B1U7eMxWsYhzVIAA"
+  836.588 D "expires_in" :  "900"
+  836.588 D "interval" :  "5"
+  836.589 D "message" :  "To sign in, use a web browser to open the page https://www.microsoft.com/link and enter the code 6L7EMTXT to authenticate."
+  836.589 D "user_code" :  "6L7EMTXT"
+  836.589 D "verification_uri" :  "https://www.microsoft.com/link"
+  836.590 D DeviceFlow::onDeviceAuthReplyFinished: Device auth request response
+  836.591 D DeviceFlow::startPollServer: device_ and user_code expires in 900 seconds
+  841.583 D PollServer::onPollTimeout: retrying
+  846.877 D PollServer::onPollTimeout: retrying
+  852.175 D PollServer::onPollTimeout: retrying
+  857.442 D PollServer::onPollTimeout: retrying
+  862.758 D PollServer::onPollTimeout: retrying
+  868.105 D PollServer::onPollTimeout: retrying
+  873.433 D PollServer::onPollTimeout: retrying
+  878.731 D PollServer::onPollTimeout: retrying
+  884.184 D PollServer::onPollTimeout: retrying
+  889.533 D PollServer::onPollTimeout: retrying
+  894.827 D PollServer::onPollTimeout: retrying
+  900.118 D PollServer::onPollTimeout: retrying
+  905.418 D PollServer::onPollTimeout: retrying
+  910.692 D PollServer::onPollTimeout: retrying
+  916.089 D PollServer::onPollTimeout: retrying
+  921.398 D PollServer::onPollTimeout: retrying
+  926.728 D PollServer::onPollTimeout: retrying
+  932.096 D PollServer::onPollTimeout: retrying
+  937.382 D PollServer::onPollTimeout: retrying
+  942.674 D PollServer::onPollTimeout: retrying
+  947.955 D PollServer::onPollTimeout: retrying
+  953.264 D PollServer::onPollTimeout: retrying
+  957.394 W QCoreApplication::postEvent: Unexpected null receiver
+  964.128 D "日本語 (漢字)"
+  964.273 D "日本語 (漢字)"
+  977.606 D Paged dialog close requested
+  977.607 D Analytics enabled by user.
+  977.608 D Detecting proxy settings...
+  977.608 D Using no proxy is an option!
+  977.608 D Paged dialog close approved
+  977.609 D Paged dialog geometry saved
+  977.639 D Discovering instances in "E:/MultiMC/MultiMC/instances"
+  977.640 D Found instance ID "1.18.1"
+  977.641 D Found instance ID "1.16.5"
+  977.641 D Found instance ID "1.17.1"
+  977.642 D Found instance ID "1.18.11"
+  977.642 D Found instance ID "1.17.11"
+  977.642 D Found instance ID "1.16.51"
+  977.643 D Found instance ID "1.12.2"
+  977.643 D Found instance ID "1.12.21"
+  977.644 D Found instance ID "1.8.9"
+  977.644 D Found instance ID "1.8.91"
+  977.644 D Found instance ID "1.18.12"
+  977.645 D Found instance ID "1.17.12"
+  977.645 D Found instance ID "1.16.52"
+  977.646 D Found instance ID "Z-Mech Retro"
+  977.646 D Should keep and soft-reload "1.18.1"
+  977.646 D Should keep and soft-reload "1.16.5"
+  977.647 D Should keep and soft-reload "1.17.1"
+  977.647 D Should keep and soft-reload "1.18.11"
+  977.647 D Should keep and soft-reload "1.17.11"
+  977.647 D Should keep and soft-reload "1.16.51"
+  977.647 D Should keep and soft-reload "1.12.2"
+  977.648 D Should keep and soft-reload "1.12.21"
+  977.648 D Should keep and soft-reload "1.8.9"
+  977.648 D Should keep and soft-reload "1.8.91"
+  977.649 D Should keep and soft-reload "1.18.12"
+  977.649 D Should keep and soft-reload "1.17.12"
+  977.650 D Should keep and soft-reload "1.16.52"
+  977.650 D Should keep and soft-reload "Z-Mech Retro"
+  989.123 D Opening directory "instances"
