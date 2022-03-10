@@ -25,9 +25,9 @@ MultiMC
 ###### Configuring Java ( Java 8 - For 1.15 and less)
 > 1. Click "Browse"
 > 2. The program asks you to choose java.
-> 3. Go to thsi directory on you Flash Drive: `\OpenJre 8\Java_64\bin`
+> 3. Go to ththis directory on you Flash Drive: `\OpenJre 8\Java_64\bin`
 > 4. You should see file called: `javaw.exe` choose it and click open.
-> 5. Choose how much ram do you want using "Maximum memory allocation:" (Depending on how much the pc have)
+> 5. Choose how much ram do you want using "Maximum memory allocation:" (Depending on how much the pc has)
 > 6. Verify that there is a green check mark (If yes, you are good to go)
 > 7. Click finish!
 
@@ -35,9 +35,9 @@ MultiMC
 ###### Configuring Java ( Java 17 - For 1.15 and up)
 > 1. Click "Browse"
 > 2. The program asks you to choose java
-> 3. Go to thsi directory on you Flash Drive: `Adoptium Temurin Open JDK 17.1\OpenJDKJRE64\bin\`
+> 3. Go to this directory on you Flash Drive: `Adoptium Temurin Open JDK 17.1\OpenJDKJRE64\bin\`
 > 4. Scroll down and you should see file called: `javaw.exe` choose it and click open.
-> 5. Choose how much ram do you want using "Maximum memory allocation:" (Depending on how much the pc have)
+> 5. Choose how much ram do you want using "Maximum memory allocation:" (Depending on how much the pc has)
 > 6. Verify that there is a green check mark (If yes, you are good to go)
 > 7. Click finish!
 
